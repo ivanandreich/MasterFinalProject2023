@@ -1,11 +1,19 @@
 # **Классификация капиллярных сосудов глаза по снимкам щелевой офтальмологической лампы**
 
 ## **Источники**
+### Исследованы
 * [**"Simultaneous segmentation and classification of the retinal arteries and veins from color fundus images"**](https://arxiv.org/pdf/2209.09582.pdf)
 
 * [**"AV-Net: Deep learning for fully automated artery-vein classification in optical coherence tomography angiography"**](https://arxiv.org/ftp/arxiv/papers/2006/2006.03742.pdf)
 
 * [**"Joint Segmentation and Classification of Retinal Arteries/Veins from Fundus Images"**](https://arxiv.org/pdf/1903.01330.pdf)
+
+### В процессе
+* [**"Futuristic Variations and Analysis in Fundus Images Corresponding to Biological Traits"**](https://arxiv.org/pdf/2302.03839.pdf)
+
+* [**"Fully Automated Artery-Vein ratio and vascular tortuosity measurement in retinal fundus images"**](https://arxiv.org/pdf/2301.01791.pdf)
+
+### Полезное
 
 [**Ссылка на оригинал шаблона дипломной работы**](https://github.com/SoprachevAK/SPBSTU-Latex-template-diploma)
 
